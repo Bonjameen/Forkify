@@ -47,6 +47,10 @@ body {
   min-height: calc(100vh - 2 * 4vw);
 }
 
+.hidden {
+  display: none;
+}
+
 .container {
   max-width: 120rem;
   min-height: 117rem;
